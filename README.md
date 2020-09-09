@@ -1,7 +1,7 @@
 # GPNU_EasyData
 <h1 align="center">数据科学学习小组</h1>
 <div style="margin-top: 0.5in;">
-    <h2 align="center">EasyData</h2>
+    <h2 align="center">Eat Up Data</h2>
 </div>
 
 <div align="right"> @林凯墅</div>
