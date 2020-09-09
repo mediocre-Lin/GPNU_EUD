@@ -57,7 +57,7 @@
     
     建立一个预测模型来解决以下问题：“预测房屋的销售价格”
     
-![prei.png](./.github/:prei.png)
+![prei.png](./.github/prei.png)
 
 
 ### 2. 计算机视觉
