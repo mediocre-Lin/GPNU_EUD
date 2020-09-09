@@ -778,7 +778,7 @@ data_df['Embarked'] = ler_Embarked.transform(data_df['Embarked'])
 ```
 
 ### Age
-${177+86\over891+418}\approx 20\%$
+${177+86\over891+418}\approx 0.2$
 
 
 缺失率约20%,考虑对齐进行填充，如果直接采用数据集的数据特征进行填充，效果可能可能不是很好
