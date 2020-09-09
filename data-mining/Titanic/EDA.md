@@ -1,9 +1,9 @@
 ## Kaggle泰坦尼克号生存预测挑战------数据分析
 这是kaggle上Getting Started 的Prediction Competition，也是比较入门和简单的新人赛。
 
-Datawhale这次学习活动，是以此赛题数据的内容进行数据分析的，我重新地回顾巩固一下这个比赛，我将分成三个部分：
+我将分成三个部分：
 
-- **[Kaggle泰坦尼克号生存预测挑战——数据分析](https://blog.csdn.net/weixin_43532000/article/details/108086363)**
+- **Kaggle泰坦尼克号生存预测挑战——数据分析**
 - **Kaggle泰坦尼克号生存预测挑战——特征工程**
 - **Kaggle泰坦尼克号生存预测挑战——模型建立、模型调参、融合**
 
@@ -73,7 +73,7 @@ seed =12345
         print(i) `
         
 
-3. 更多常用参数![20180714205358426.png](attachment:20180714205358426.png)
+
      `
 
 
@@ -676,7 +676,7 @@ data_info(train_df,test_df,['Survived','Pclass','Sex','Cabin','Embarked','SibSp'
     
 
 
-![png](output_18_1.png)
+![png](./img/output_18_1.png)
 
 
     
@@ -704,7 +704,7 @@ data_info(train_df,test_df,['Survived','Pclass','Sex','Cabin','Embarked','SibSp'
     
 
 
-![png](output_18_3.png)
+![png](./img/output_18_3.png)
 
 
 ### 缺失值情况
@@ -881,11 +881,11 @@ plt.legend(['Sex0','Sex1']);
 ```
 
 
-![png](output_28_0.png)
+![png](./img/output_28_0.png)
 
 
 
-![png](output_28_1.png)
+![png](./img/output_28_1.png)
 
 
 ### 不同Pclass中的年龄分布，从其中的分布确实能看出有一些差别
@@ -910,7 +910,7 @@ plt.legend(['p1','p2','p3'])
 
 
 
-![png](output_30_1.png)
+![png](./img/output_30_1.png)
 
 
 
@@ -1231,7 +1231,7 @@ sns.heatmap(train_data.corr(),square = True,  vmax=0.7,annot=True,cmap='Accent')
 
 
 
-![png](output_43_1.png)
+![png](./img/output_43_1.png)
 
 
 
@@ -1249,7 +1249,7 @@ plt.title('Train_Set_Survived')
 
 
 
-![png](output_44_1.png)
+![png](./img/output_44_1.png)
 
 
 #### 测试集
@@ -1381,7 +1381,7 @@ sns.heatmap(test_data.corr(),square = True,  vmax=0.7,annot=True,cmap='Accent')
 
 
 
-![png](output_47_1.png)
+![png](./img/output_47_1.png)
 
 
 ### 连续性数据分布的情况
@@ -1418,7 +1418,7 @@ plt.show()
 ```
 
 
-![png](output_49_0.png)
+![png](./img/output_49_0.png)
 
 
 ### 类别特征分布情况
@@ -1467,11 +1467,11 @@ plt.show()
 ```
 
 
-![png](output_51_0.png)
+![png](./img/output_51_0.png)
 
 
 
-![png](output_51_1.png)
+![png](./img/output_51_1.png)
 
 
 ### 对姓名特征进行分析
@@ -1511,7 +1511,7 @@ sns.barplot(x="Title", y="Survived", data=train_data)
 
 
 
-![png](output_53_1.png)
+![png](./img/output_53_1.png)
 
 
 ### 保存CSV文件
@@ -1588,7 +1588,7 @@ plt.show()
     
 
 
-![png](output_59_1.png)
+![png](./img/output_59_1.png)
 
 
 ### 对Age的各个区间进行分析
@@ -1646,7 +1646,7 @@ plt.show()
     
 
 
-![png](output_61_1.png)
+![png](./img/output_61_1.png)
 
 
 ### Fare ，Age
@@ -1760,7 +1760,7 @@ plt.title('Count of Survival in Family Feature',size=15)
 
 
 
-![png](output_65_1.png)
+![png](./img/output_65_1.png)
 
 
 ### SibSp,Parch
@@ -2089,7 +2089,7 @@ sns.barplot(x='TicketGroup', y='Survived', data=data_all)
 
 
 
-![png](output_73_1.png)
+![png](./img/output_73_1.png)
 
 
 
