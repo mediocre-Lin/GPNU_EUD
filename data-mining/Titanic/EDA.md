@@ -696,19 +696,6 @@ data_df[data_df['Embarked'].isnull()]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -778,7 +765,7 @@ data_df['Embarked'] = ler_Embarked.transform(data_df['Embarked'])
 ```
 
 ### Age
-${177+86\over891+418}\approx 0.2$
+(177+86)\(891+418)约等于20%
 
 
 缺失率约20%,考虑对齐进行填充，如果直接采用数据集的数据特征进行填充，效果可能可能不是很好
