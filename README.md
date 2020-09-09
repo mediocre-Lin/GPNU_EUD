@@ -89,7 +89,7 @@
 - **语义分割**
 
 
-![true.png](attachment:true.png)![groudt.png](./.github/groudt.png)
+![true.png](./.github/true.png)![groudt.png](./.github/groudt.png)
 
 ### 3. 自然语言处理
 - **[推文态度分类（文本分类）](https://www.kaggle.com/c/nlp-getting-started/overview)**
