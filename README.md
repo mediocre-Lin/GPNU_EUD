@@ -1,5 +1,5 @@
 # GPNU_EUD
-<h1 align="center">数据科学学习小组</h1>
+<h1 align="center">Data Science Leanring</h1>
 <div style="margin-top: 0.5in;">
     <h2 align="center">Eat Up Data</h2>
 </div>
