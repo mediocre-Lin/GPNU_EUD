@@ -4,7 +4,7 @@
     <h2 align="center">Eat Up Data</h2>
 </div>
 
-<div align="right"> @林凯墅</div>
+<div align="right"> @</div>
 <br/>
 
 ## 简介
