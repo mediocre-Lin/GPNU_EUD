@@ -18,9 +18,10 @@
 ## 涉及内容
 
 - python的基础操作与基础库使用
+
     1. python基础
-    2. numpy,pandas
-    3. matplotlib,seaborn
+    2. numpy和pandas的使用
+    3. matplotlib的使用，seaborn（进阶的可视化库）
 
 - 机器学习理论与实践
 
