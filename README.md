@@ -33,14 +33,24 @@
 
 
 <span id="item1"> </span>
-## 相关AI赛事
+
+
+## 项目
+
+- [Kaggle泰坦尼克号生存预测Baseline](https://github.com/mediocre-Lin/GPNU_EUD/tree/master/data-mining/Titanic)
+
+- [阿里云天池街景字符识别（亚军）](https://github.com/mediocre-Lin/GPNU_EUD/tree/master/CV/TianChiOCR) 待整理上传
+
+
+
+## 相关入门AI赛事和应用
 
 
 ### 1. 结构化数据挖掘
 
 
 
-- **[泰坦尼克号的沉没](https://www.kaggle.com/c/titanic)**:
+- **泰坦尼克号的沉没**:
 
     使用乘客数据（即姓名，年龄，性别，经济舱等）
     
@@ -54,7 +64,7 @@
 <br/>
 
 
-- **[房屋价格的预测](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview/tutorials)**:
+- **房屋价格的预测**:
 
     使用房屋的数据（即房屋信息，街区信息等）
     
@@ -67,7 +77,7 @@
 
 
 
-- **[猫狗分类问题](https://www.kaggle.com/c/dogs-vs-cats)**
+- **猫狗分类问题**
 
 
     编写一种算法来对图像包含狗还是猫进行分类
@@ -95,7 +105,7 @@
 ![true.png](./.github/true.png)![groudt.png](./.github/groudt.png)
 
 ### 3. 自然语言处理
-- **[推文态度分类（文本分类）](https://www.kaggle.com/c/nlp-getting-started/overview)**
+- **推文态度分类（文本分类）**
 
     根据Twitter发布的内容建立一个模型，判断哪些是真实灾难的，哪些不是
 ![nlp.png](./.github/nlp.png)
