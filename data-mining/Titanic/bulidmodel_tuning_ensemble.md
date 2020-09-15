@@ -3,7 +3,7 @@
 
 
 
-#### 将数据分成 训练集和测试集
+## 将数据分成 训练集和测试集
 
 
 ```python
@@ -98,7 +98,7 @@ def Titanicmodel(clf,features,test_data,y,model_name):
 
 ```
 
-#### 逻辑回归(LR)
+### 逻辑回归(LR)
 
 
 ```python
