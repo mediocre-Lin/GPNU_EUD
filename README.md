@@ -17,7 +17,7 @@
 
 ## 涉及内容
 
-- **[python的基础操作与基础库使用](#item)**
+- **[python的基础操作与基础库使用](#item1)**
 
     1. python基础
     2. numpy和pandas的使用
