@@ -32,7 +32,7 @@
 - 参加AI赛事、项目，以赛促学、项目促学
 
 
-<span id="item1">item1</span>
+<span id="item1"> </span>
 ## 相关AI赛事
 
 
