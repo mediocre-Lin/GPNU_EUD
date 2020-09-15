@@ -17,7 +17,7 @@
 
 ## 涉及内容
 
-- **[python的基础操作与基础库使用](#jump)**
+- **[python的基础操作与基础库使用](#item)**
 
     1. python基础
     2. numpy和pandas的使用
@@ -32,7 +32,7 @@
 - 参加AI赛事、项目，以赛促学、项目促学
 
 
-<span id="jump">跳转到的地方</span>
+<span id="item1">item1</span>
 ## 相关AI赛事
 
 
