@@ -17,8 +17,10 @@
 
 ## 涉及内容
 
-- python的基础操作
-
+- python的基础操作与基础库使用
+    1. python基础
+    2. numpy,pandas
+    3. matplotlib,seaborn
 
 - 机器学习理论与实践
 
