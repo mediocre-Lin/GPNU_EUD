@@ -35,7 +35,7 @@
 <span id="item1"> </span>
 
 
-## 项目
+## 成果
 
 - [Kaggle泰坦尼克号生存预测Baseline](https://github.com/mediocre-Lin/GPNU_EUD/tree/master/data-mining/Titanic)
 
