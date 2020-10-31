@@ -50,7 +50,7 @@
 
 - [阿里云天池街景字符识别（亚军）](https://github.com/mediocre-Lin/GPNU_EUD/tree/master/CV/TianChiOCR) 待整理上传
 
-- [智算之道人工智能应用挑战赛（团队季军、Rank Top5）] 待整理上传
+- [智算之道人工智能应用挑战赛(团队季军、Rank Top5)] 待整理上传
 
 
 
